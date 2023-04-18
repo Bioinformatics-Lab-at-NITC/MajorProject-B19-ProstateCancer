@@ -1,0 +1,61 @@
+significant up
+
+
+hsa-mir-106a
+hsa-mir-1255a	
+hsa-mir-1269
+hsa-mir-1275	
+hsa-mir-1291	
+hsa-mir-137	-potential
+hsa-mir-141-potential        	
+hsa-mir-146b
+hsa-mir-147b	
+hsa-mir-148a-potential	
+hsa-mir-153	
+hsa-mir-17	     
+hsa-mir-182	- potential    
+hsa-mir-183	  
+hsa-mir-19a	- prognostic marker           
+hsa-mir-19b	- potential	
+hsa-mir-200c	
+hsa-mir-20a- potential	         
+hsa-mir-20b	        
+hsa-mir-210	          	
+hsa-mir-25	            
+hsa-mir-3074		
+hsa-mir-3170-potential	
+hsa-mir-3189	
+hsa-mir-3614-potential	
+hsa-mir-3653	
+hsa-mir-3664
+hsa-mir-375	- high potential	
+hsa-mir-425 - exosomal biomarker
+hsa-mir-4326 		
+hsa-mir-449a- potential
+hsa-mir-449b-potential 	
+hsa-mir-4501
+hsa-mir-4664	
+hsa-mir-4668
+hsa-mir-4746	
+hsa-mir-500a
+hsa-mir-548t	
+hsa-mir-5680	
+hsa-mir-5683
+hsa-mir-5687	
+hsa-mir-5694	
+hsa-mir-5704
+hsa-mir-5706	
+hsa-mir-592
+hsa-mir-612	
+hsa-mir-615-potential
+hsa-mir-618-potential	
+hsa-mir-6810
+hsa-mir-7-1	
+hsa-mir-7-3
+hsa-mir-708-high potential	
+hsa-mir-7705
+hsa-mir-9  -potential
+hsa-mir-92a	
+hsa-mir-93-potential
+hsa-mir-935	
+hsa-mir-96
